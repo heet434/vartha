@@ -1,0 +1,27 @@
+{
+  "name": "vartha.ai_backend",
+  "version": "1.0.0",
+  "description": "Vartha.ai otp auth",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heet434/vartha.git"
+  },
+  "author": "Heet Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heet434/vartha/issues"
+  },
+  "homepage": "https://github.com/heet434/vartha#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  }
+}
